@@ -11,7 +11,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
 
-  const url ="http://localhost:4000"
+  const url ="https://zero2-todo-app-backend.onrender.com" //localhostserever
   return (
     <div>
       <ToastContainer/>
